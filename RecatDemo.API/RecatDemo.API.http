@@ -1,0 +1,6 @@
+@RecatDemo.API_HostAddress = http://localhost:5049
+
+GET {{RecatDemo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
